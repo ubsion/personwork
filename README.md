@@ -21,6 +21,10 @@
 
 - [Perfect for swift][4]
 
+## UI布局 ##
+
+ - [Componentkit][5]-FaceBook推出的构造UI的新思路，相关文章[iOS：ComponentKit 使用总结][6]
+
 ## 自己封装的工具 ##
 
 1.XYYSegmentControl https://github.com/1273011249/XYYSegmentControl
@@ -28,7 +32,9 @@
 简介：多页签显示，基于HMSegmentedControl再封装，便于使用
 
 
-[1]: https://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/
-[2]: http://www.jianshu.com/p/1265eea814c6
-[3]: http://www.jianshu.com/p/5c16f21a74de
-[4]: https://github.com/PerfectlySoft/Perfect
+  [1]: https://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/
+  [2]: http://www.jianshu.com/p/1265eea814c6
+  [3]: http://www.jianshu.com/p/5c16f21a74de
+  [4]: https://github.com/PerfectlySoft/Perfect
+  [5]: https://github.com/facebook/componentkit
+  [6]: https://segmentfault.com/a/1190000002706612
