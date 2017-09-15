@@ -25,6 +25,7 @@
 ## 构建布局ui##
 
  - [Componentkit][5]-FaceBook推出的构造UI的新思路，相关文章[iOS：ComponentKit 使用总结][6]
+ - [AsyncDisplayKit][7] - AsyncDisplayKit的基本使用单元是node. ASDisplayNode是一个UIView层之上的封装，就像UIView是对CALayer的封装一样。相关文章[AsyncDisplayKit使用详解][8]
 
 ## 自己封装的工具 ##
 
@@ -39,3 +40,5 @@
   [4]: https://github.com/PerfectlySoft/Perfect
   [5]: https://github.com/facebook/componentkit
   [6]: https://segmentfault.com/a/1190000002706612
+  [7]: https://github.com/facebookarchive/AsyncDisplayKit
+  [8]: http://www.jianshu.com/p/a6105e22d394
