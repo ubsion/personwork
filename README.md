@@ -6,6 +6,7 @@
 - [高仿项目和完整的app](#高仿项目和完整的app)
 - [服务器相关](#服务器相关)
 - [构建布局UI](#构建布局ui)
+- [webview](#webview)
 - [自己封装的工具](#自己封装的工具)
 
 
@@ -28,6 +29,10 @@
  - [Componentkit][7]-FaceBook推出的构造UI的新思路，相关文章[iOS：ComponentKit 使用总结][8]
  - [AsyncDisplayKit][9] - AsyncDisplayKit的基本使用单元是node. ASDisplayNode是一个UIView层之上的封装，就像UIView是对CALayer的封装一样。相关文章[AsyncDisplayKit使用详解][10]、* [AsyncDisplayKit 2.0 Objective-C 教程][11]、*[AsyncDisplayKit2.0教程(上)][12]、* [AsyncDisplayKit2.0教程(下)][13]
 
+## webview ##
+
+ - [WKWebView][14]-IOS8以后的web加载神器。相关文章[使用WKWebView替换UIWebView][15]
+
 ## 自己封装的工具 ##
 
 1.XYYSegmentControl https://github.com/1273011249/XYYSegmentControl
@@ -48,3 +53,5 @@
   [11]: http://blog.csdn.net/kmyhy/article/details/55656939
   [12]: http://blog.csdn.net/kmyhy/article/details/54632659
   [13]: http://blog.csdn.net/kmyhy/article/details/54846322
+  [14]: https://github.com/XFIOSXiaoFeng/WKWebView
+  [15]: http://www.jianshu.com/p/6ba2507445e4
