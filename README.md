@@ -12,20 +12,21 @@
 ## 性能优化 ##
  - [iOS 保持界面流畅的技巧][1]
  - [如何让iOS 保持界面流畅技巧2][2]
+ - [iOS图片加载速度极限优化—FastImageCache解析][3]
 
 ## 高仿项目和完整的app ##
 
-- [iOS 高仿少数派客户端 代码+思路讲解][3]
-- [Github备忘录][4]
+- [iOS 高仿少数派客户端 代码+思路讲解][4]
+- [Github备忘录][5]
 
 ## 服务器相关 ##
 
-- [Perfect for swift][5]
+- [Perfect for swift][6]
 
 ## 构建布局ui##
 
- - [Componentkit][6]-FaceBook推出的构造UI的新思路，相关文章[iOS：ComponentKit 使用总结][7]
- - [AsyncDisplayKit][8] - AsyncDisplayKit的基本使用单元是node. ASDisplayNode是一个UIView层之上的封装，就像UIView是对CALayer的封装一样。相关文章[AsyncDisplayKit使用详解][9]、* [AsyncDisplayKit 2.0 Objective-C 教程][10]、*[AsyncDisplayKit2.0教程(上)][11]、* [AsyncDisplayKit2.0教程(下)][12]
+ - [Componentkit][7]-FaceBook推出的构造UI的新思路，相关文章[iOS：ComponentKit 使用总结][8]
+ - [AsyncDisplayKit][9] - AsyncDisplayKit的基本使用单元是node. ASDisplayNode是一个UIView层之上的封装，就像UIView是对CALayer的封装一样。相关文章[AsyncDisplayKit使用详解][10]、* [AsyncDisplayKit 2.0 Objective-C 教程][11]、*[AsyncDisplayKit2.0教程(上)][12]、* [AsyncDisplayKit2.0教程(下)][13]
 
 ## 自己封装的工具 ##
 
@@ -36,13 +37,14 @@
 
   [1]: https://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/
   [2]: http://www.cnblogs.com/ioriwellings/p/5011993.html
-  [3]: http://www.jianshu.com/p/1265eea814c6
-  [4]: http://www.jianshu.com/p/5c16f21a74de
-  [5]: https://github.com/PerfectlySoft/Perfect
-  [6]: https://github.com/facebook/componentkit
-  [7]: https://segmentfault.com/a/1190000002706612
-  [8]: https://github.com/facebookarchive/AsyncDisplayKit
-  [9]: http://www.jianshu.com/p/a6105e22d394
-  [10]: http://blog.csdn.net/kmyhy/article/details/55656939
-  [11]: http://blog.csdn.net/kmyhy/article/details/54632659
-  [12]: http://blog.csdn.net/kmyhy/article/details/54846322
+  [3]: http://blog.cnbang.net/tech/2578/
+  [4]: http://www.jianshu.com/p/1265eea814c6
+  [5]: http://www.jianshu.com/p/5c16f21a74de
+  [6]: https://github.com/PerfectlySoft/Perfect
+  [7]: https://github.com/facebook/componentkit
+  [8]: https://segmentfault.com/a/1190000002706612
+  [9]: https://github.com/facebookarchive/AsyncDisplayKit
+  [10]: http://www.jianshu.com/p/a6105e22d394
+  [11]: http://blog.csdn.net/kmyhy/article/details/55656939
+  [12]: http://blog.csdn.net/kmyhy/article/details/54632659
+  [13]: http://blog.csdn.net/kmyhy/article/details/54846322
