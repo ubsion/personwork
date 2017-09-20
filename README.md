@@ -39,6 +39,12 @@
 
 简介：多页签显示，基于HMSegmentedControl再封装，便于使用
 
+## IOS新功能适配 ##
+
+ 1. IOS11适配
+    - [你可能需要为你的APP适配iOS11][18]
+    - [App界面适配iOS11][19]
+    - [Xcode9下iOS11适配注意事项及无线部署调试][20]
 
   [1]: https://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/
   [2]: http://www.cnblogs.com/ioriwellings/p/5011993.html
@@ -57,3 +63,6 @@
   [15]: http://www.jianshu.com/p/6ba2507445e4
   [16]: http://www.cnblogs.com/yajunLi/p/6292507.html
   [17]: http://www.jianshu.com/p/b32b9fb6cb0a
+  [18]: http://www.jianshu.com/p/370d82ba3939
+  [19]: http://www.jianshu.com/p/352f101d6df1
+  [20]: http://www.jianshu.com/p/39a5aee18778
