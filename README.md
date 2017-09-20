@@ -31,7 +31,7 @@
 
 ## webview ##
 
- - [WKWebView][14]-IOS8以后的web加载神器。相关文章[使用WKWebView替换UIWebView][15]
+ - [WKWebView][14]-IOS8以后的web加载神器。相关文章[使用WKWebView替换UIWebView][15]、[UIWebview加载进度条实现][16]、[WKWebView进度条实现][17]
 
 ## 自己封装的工具 ##
 
@@ -55,3 +55,5 @@
   [13]: http://blog.csdn.net/kmyhy/article/details/54846322
   [14]: https://github.com/XFIOSXiaoFeng/WKWebView
   [15]: http://www.jianshu.com/p/6ba2507445e4
+  [16]: http://www.cnblogs.com/yajunLi/p/6292507.html
+  [17]: http://www.jianshu.com/p/b32b9fb6cb0a
