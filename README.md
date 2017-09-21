@@ -49,8 +49,6 @@
     - [The file couldn’t be opened because you don’t have permission to view it][28]  
 
 
-  [23hu.com/p/39a5aee18778
-
 
   [1]: https://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/
   [2]: http://www.cnblogs.com/ioriwellings/p/5011993.html
