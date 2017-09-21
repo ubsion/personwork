@@ -45,6 +45,8 @@
     - [你可能需要为你的APP适配iOS11][18]
     - [App界面适配iOS11][19]
     - [Xcode9下iOS11适配注意事项及无线部署调试][20]
+    - [The file couldn’t be opened because you don’t have permission to view it][21]  
+
 
   [1]: https://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/
   [2]: http://www.cnblogs.com/ioriwellings/p/5011993.html
@@ -66,3 +68,4 @@
   [18]: http://www.jianshu.com/p/370d82ba3939
   [19]: http://www.jianshu.com/p/352f101d6df1
   [20]: http://www.jianshu.com/p/39a5aee18778
+  [21]: http://shizhifang886.blog.163.com/blog/static/30585110201482912125657/
