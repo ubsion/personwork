@@ -28,11 +28,11 @@
 ## 构建布局ui##
 
  - [Componentkit][10]-FaceBook推出的构造UI的新思路，相关文章[iOS：ComponentKit 使用总结][11]
- - [AsyncDisplayKit][12] - AsyncDisplayKit的基本使用单元是node. ASDisplayNode是一个UIView层之上的封装，就像UIView是对CALayer的封装一样。相关文章[AsyncDisplayKit使用详解][13]、* [AsyncDisplayKit 2.0 Objective-C 教程][14]、*[AsyncDisplayKit2.0教程(上)][15]、* [AsyncDisplayKit2.0教程(下)][16]、即刻技术团队的文章介绍【[AsyncDisplayKit介绍（一）原理和思路][17]、[AsyncDisplayKit介绍（二）布局系统][18]、[AsyncDisplayKit介绍（三）深度优化列表性能][19]】、[复杂布局介绍-AsyncDisplaykit2.0使用「复杂界面流畅性」][20]
+ - [AsyncDisplayKit][12] - AsyncDisplayKit的基本使用单元是node. ASDisplayNode是一个UIView层之上的封装，就像UIView是对CALayer的封装一样。相关文章[AsyncDisplayKit使用详解][13]、* [AsyncDisplayKit 2.0 Objective-C 教程][14]、*[AsyncDisplayKit2.0教程(上)][15]、* [AsyncDisplayKit2.0教程(下)][16]、即刻技术团队的文章介绍【[AsyncDisplayKit介绍（一）原理和思路][17]、[AsyncDisplayKit介绍（二）布局系统][18]、[AsyncDisplayKit介绍（三）深度优化列表性能][19]】、[复杂布局介绍-AsyncDisplaykit2.0使用「复杂界面流畅性」][20]、比较优秀的教程[AsyncDisplayKit 教程：达到 60 FPS 的滚动帧率][21]、原理解释[iOS 保持界面流畅的技巧][1]
 
 ## webview ##
 
- - [WKWebView][21]-IOS8以后的web加载神器。相关文章[使用WKWebView替换UIWebView][22]、[UIWebview加载进度条实现][23]、[WKWebView进度条实现][24]
+ - [WKWebView][22]-IOS8以后的web加载神器。相关文章[使用WKWebView替换UIWebView][23]、[UIWebview加载进度条实现][24]、[WKWebView进度条实现][25]
 
 ## 自己封装的工具 ##
 
@@ -43,13 +43,13 @@
 ## ios新功能适配 ##
 
  1. IOS11适配
-    - [你可能需要为你的APP适配iOS11][25]
-    - [App界面适配iOS11][26]
-    - [Xcode9下iOS11适配注意事项及无线部署调试][27]
-    - [The file couldn’t be opened because you don’t have permission to view it][28]  
-    - [iOS 11 安全区域适配总结][29]
-    - [iPhone X 设计适配指南 & iOS 11 新特性][30]
-    - [10分钟适配 iOS 11 & iPhone X][31]
+    - [你可能需要为你的APP适配iOS11][26]
+    - [App界面适配iOS11][27]
+    - [Xcode9下iOS11适配注意事项及无线部署调试][28]
+    - [The file couldn’t be opened because you don’t have permission to view it][29]  
+    - [iOS 11 安全区域适配总结][30]
+    - [iPhone X 设计适配指南 & iOS 11 新特性][31]
+    - [10分钟适配 iOS 11 & iPhone X][32]
 
 
   [1]: https://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/
@@ -72,14 +72,15 @@
   [18]: https://zhuanlan.zhihu.com/p/26283742
   [19]: https://zhuanlan.zhihu.com/p/29537687
   [20]: http://www.jianshu.com/p/afc69cd9e824
-  [21]: https://github.com/XFIOSXiaoFeng/WKWebView
-  [22]: http://www.jianshu.com/p/6ba2507445e4
-  [23]: http://www.cnblogs.com/yajunLi/p/6292507.html
-  [24]: http://www.jianshu.com/p/b32b9fb6cb0a
-  [25]: http://www.jianshu.com/p/370d82ba3939
-  [26]: http://www.jianshu.com/p/352f101d6df1
-  [27]: http://shizhifang886.blog.163.com/blog/static/30585110201482912125657/
+  [21]: http://www.cocoachina.com/swift/20141124/10298.html
+  [22]: https://github.com/XFIOSXiaoFeng/WKWebView
+  [23]: http://www.jianshu.com/p/6ba2507445e4
+  [24]: http://www.cnblogs.com/yajunLi/p/6292507.html
+  [25]: http://www.jianshu.com/p/b32b9fb6cb0a
+  [26]: http://www.jianshu.com/p/370d82ba3939
+  [27]: http://www.jianshu.com/p/352f101d6df1
   [28]: http://shizhifang886.blog.163.com/blog/static/30585110201482912125657/
-  [29]: http://www.jianshu.com/p/efbc8619d56b
-  [30]: https://mp.weixin.qq.com/s/7kM8Qiha7np6_QWfduxD-A
-  [31]: http://www.cocoachina.com/ios/20170925/20642.html
+  [29]: http://shizhifang886.blog.163.com/blog/static/30585110201482912125657/
+  [30]: http://www.jianshu.com/p/efbc8619d56b
+  [31]: https://mp.weixin.qq.com/s/7kM8Qiha7np6_QWfduxD-A
+  [32]: http://www.cocoachina.com/ios/20170925/20642.html
