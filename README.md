@@ -15,24 +15,25 @@
  - [如何让iOS 保持界面流畅技巧2][2]
  - [iOS图片加载速度极限优化—FastImageCache解析][3]
  - [Flexbox优化][4]-Flexbox     是W3C在2009年提出的一种新的前端页面布局，目前，它已经得到了所有浏览器的支持。而最早将这一页面布局方案引入iOS开发中的是开源库 AsyncDisplayKit。但随着React Native与Weex在动态化领域的兴起， 让iOS开发越来越多的接触到Flexbox 页面布局。相关文章：[FlexBoxLayout][5]、[Yoga][6]
+ - [iOS小技巧总结][7] —— 在这里总结一些iOS开发中的小技巧，能大大方便我们的开发，持续更新。
 
 ## 高仿项目和完整的app ##
 
-- [iOS 高仿少数派客户端 代码+思路讲解][7]
-- [Github备忘录][8]
+- [iOS 高仿少数派客户端 代码+思路讲解][8]
+- [Github备忘录][9]
 
 ## 服务器相关 ##
 
-- [Perfect for swift][9]
+- [Perfect for swift][10]
 
 ## 构建布局ui##
 
- - [Componentkit][10]-FaceBook推出的构造UI的新思路，相关文章[iOS：ComponentKit 使用总结][11]
- - [AsyncDisplayKit][12] - AsyncDisplayKit的基本使用单元是node. ASDisplayNode是一个UIView层之上的封装，就像UIView是对CALayer的封装一样。相关文章[AsyncDisplayKit使用详解][13]、* [AsyncDisplayKit 2.0 Objective-C 教程][14]、*[AsyncDisplayKit2.0教程(上)][15]、* [AsyncDisplayKit2.0教程(下)][16]、即刻技术团队的文章介绍【[AsyncDisplayKit介绍（一）原理和思路][17]、[AsyncDisplayKit介绍（二）布局系统][18]、[AsyncDisplayKit介绍（三）深度优化列表性能][19]】、[复杂布局介绍-AsyncDisplaykit2.0使用「复杂界面流畅性」][20]、比较优秀的教程[AsyncDisplayKit 教程：达到 60 FPS 的滚动帧率][21]、原理解释[iOS 保持界面流畅的技巧][1]
+ - [Componentkit][11]-FaceBook推出的构造UI的新思路，相关文章[iOS：ComponentKit 使用总结][12]
+ - [AsyncDisplayKit][13] - AsyncDisplayKit的基本使用单元是node. ASDisplayNode是一个UIView层之上的封装，就像UIView是对CALayer的封装一样。相关文章[AsyncDisplayKit使用详解][14]、* [AsyncDisplayKit 2.0 Objective-C 教程][15]、*[AsyncDisplayKit2.0教程(上)][16]、* [AsyncDisplayKit2.0教程(下)][17]、即刻技术团队的文章介绍【[AsyncDisplayKit介绍（一）原理和思路][18]、[AsyncDisplayKit介绍（二）布局系统][19]、[AsyncDisplayKit介绍（三）深度优化列表性能][20]】、[复杂布局介绍-AsyncDisplaykit2.0使用「复杂界面流畅性」][21]、比较优秀的教程[AsyncDisplayKit 教程：达到 60 FPS 的滚动帧率][22]、原理解释[iOS 保持界面流畅的技巧][23]
 
 ## webview ##
 
- - [WKWebView][22]-IOS8以后的web加载神器。相关文章[使用WKWebView替换UIWebView][23]、[UIWebview加载进度条实现][24]、[WKWebView进度条实现][25]
+ - [WKWebView][24]-IOS8以后的web加载神器。相关文章[使用WKWebView替换UIWebView][25]、[UIWebview加载进度条实现][26]、[WKWebView进度条实现][27]
 
 ## 自己封装的工具 ##
 
@@ -43,13 +44,13 @@
 ## ios新功能适配 ##
 
  1. IOS11适配
-    - [你可能需要为你的APP适配iOS11][26]
-    - [App界面适配iOS11][27]
-    - [Xcode9下iOS11适配注意事项及无线部署调试][28]
-    - [The file couldn’t be opened because you don’t have permission to view it][29]  
-    - [iOS 11 安全区域适配总结][30]
-    - [iPhone X 设计适配指南 & iOS 11 新特性][31]
-    - [10分钟适配 iOS 11 & iPhone X][32]
+    - [你可能需要为你的APP适配iOS11][28]
+    - [App界面适配iOS11][29]
+    - [Xcode9下iOS11适配注意事项及无线部署调试][30]
+    - [The file couldn’t be opened because you don’t have permission to view it][31]  
+    - [iOS 11 安全区域适配总结][32]
+    - [iPhone X 设计适配指南 & iOS 11 新特性][33]
+    - [10分钟适配 iOS 11 & iPhone X][34]
 
 
   [1]: https://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/
@@ -58,29 +59,31 @@
   [4]: http://www.cocoachina.com/ios/20170314/18878.html
   [5]: https://github.com/LPD-iOS/FlexBoxLayout
   [6]: https://github.com/facebook/yoga
-  [7]: http://www.jianshu.com/p/1265eea814c6
-  [8]: http://www.jianshu.com/p/5c16f21a74de
-  [9]: https://github.com/PerfectlySoft/Perfect
-  [10]: https://github.com/facebook/componentkit
-  [11]: https://segmentfault.com/a/1190000002706612
-  [12]: https://github.com/facebookarchive/AsyncDisplayKit
-  [13]: http://www.jianshu.com/p/a6105e22d394
-  [14]: http://blog.csdn.net/kmyhy/article/details/55656939
-  [15]: http://blog.csdn.net/kmyhy/article/details/54632659
-  [16]: http://blog.csdn.net/kmyhy/article/details/54846322
-  [17]: https://zhuanlan.zhihu.com/p/25371361
-  [18]: https://zhuanlan.zhihu.com/p/26283742
-  [19]: https://zhuanlan.zhihu.com/p/29537687
-  [20]: http://www.jianshu.com/p/afc69cd9e824
-  [21]: http://www.cocoachina.com/swift/20141124/10298.html
-  [22]: https://github.com/XFIOSXiaoFeng/WKWebView
-  [23]: http://www.jianshu.com/p/6ba2507445e4
-  [24]: http://www.cnblogs.com/yajunLi/p/6292507.html
-  [25]: http://www.jianshu.com/p/b32b9fb6cb0a
-  [26]: http://www.jianshu.com/p/370d82ba3939
-  [27]: http://www.jianshu.com/p/352f101d6df1
-  [28]: http://shizhifang886.blog.163.com/blog/static/30585110201482912125657/
-  [29]: http://shizhifang886.blog.163.com/blog/static/30585110201482912125657/
-  [30]: http://www.jianshu.com/p/efbc8619d56b
-  [31]: https://mp.weixin.qq.com/s/7kM8Qiha7np6_QWfduxD-A
-  [32]: http://www.cocoachina.com/ios/20170925/20642.html
+  [7]: http://www.jianshu.com/p/4523eafb4cd4
+  [8]: http://www.jianshu.com/p/1265eea814c6
+  [9]: http://www.jianshu.com/p/5c16f21a74de
+  [10]: https://github.com/PerfectlySoft/Perfect
+  [11]: https://github.com/facebook/componentkit
+  [12]: https://segmentfault.com/a/1190000002706612
+  [13]: https://github.com/facebookarchive/AsyncDisplayKit
+  [14]: http://www.jianshu.com/p/a6105e22d394
+  [15]: http://blog.csdn.net/kmyhy/article/details/55656939
+  [16]: http://blog.csdn.net/kmyhy/article/details/54632659
+  [17]: http://blog.csdn.net/kmyhy/article/details/54846322
+  [18]: https://zhuanlan.zhihu.com/p/25371361
+  [19]: https://zhuanlan.zhihu.com/p/26283742
+  [20]: https://zhuanlan.zhihu.com/p/29537687
+  [21]: http://www.jianshu.com/p/afc69cd9e824
+  [22]: http://www.cocoachina.com/swift/20141124/10298.html
+  [23]: https://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/
+  [24]: https://github.com/XFIOSXiaoFeng/WKWebView
+  [25]: http://www.jianshu.com/p/6ba2507445e4
+  [26]: http://www.cnblogs.com/yajunLi/p/6292507.html
+  [27]: http://www.jianshu.com/p/b32b9fb6cb0a
+  [28]: http://www.jianshu.com/p/370d82ba3939
+  [29]: http://www.jianshu.com/p/352f101d6df1
+  [30]: http://shizhifang886.blog.163.com/blog/static/30585110201482912125657/
+  [31]: http://shizhifang886.blog.163.com/blog/static/30585110201482912125657/
+  [32]: http://www.jianshu.com/p/efbc8619d56b
+  [33]: https://mp.weixin.qq.com/s/7kM8Qiha7np6_QWfduxD-A
+  [34]: http://www.cocoachina.com/ios/20170925/20642.html
